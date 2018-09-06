@@ -13,11 +13,9 @@ Syntax highlighted code block
 
 # Clark's first CS193 Lab
 
-- Bulleted
-- List
-
 1. Noah is a cool guy
 2. We get introduced to professional code hosting services like GitHub
+
 
 **Bold** and _Italic_ and `Code` text
 
